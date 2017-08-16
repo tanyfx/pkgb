@@ -1,5 +1,5 @@
 package pkgd
 
 func GetInfo() string {
-	return "pkgd branch forkc, version v1.3.2"
+	return "pkgd branch master, version v1.2.0"
 }
