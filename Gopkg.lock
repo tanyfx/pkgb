@@ -4,12 +4,12 @@
 [[projects]]
   name = "github.com/tanyfx/pkgd"
   packages = ["."]
-  revision = "05125ca04c87ef44d60d9beaa1eb0052bed60716"
-  version = "v1.3.2"
+  revision = "1deaca29a3042a45575467ca5415cf04faefdb9c"
+  version = "v1.2.2"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "b774bcd579df6d58423d8eb2816477e44fef65d06562cd61f2101c61b3c5ced8"
+  inputs-digest = "67acf45f9aa275279f9c974cd43f48dd358992fb3c748ff929ae53c4848c163b"
   solver-name = "gps-cdcl"
   solver-version = 1

@@ -23,4 +23,4 @@
 
 [[override]]
   name = "github.com/tanyfx/pkgd"
-  version = "1.0.0"
+  branch = "forkb"
